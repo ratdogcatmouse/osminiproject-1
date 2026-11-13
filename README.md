@@ -45,4 +45,5 @@ src/
 
 ## Authors
 
-Ishaan Bhatia
+Ishaan Bhatia and Jai Akash Mahendran
+
