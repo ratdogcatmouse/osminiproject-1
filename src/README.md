@@ -1,4 +1,4 @@
-# CampusCompute
+# os project
 
 Command-line prototype for job scheduling, threaded logging, shared-memory IPC,
 Banker's safety check, worker failure detection and resource limits.
