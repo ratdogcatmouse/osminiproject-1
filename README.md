@@ -1,4 +1,4 @@
-# osminiproject-1
+# osminiproject
 
 A command-line prototype in C that demonstrates core operating-system concepts through a simulated university computing lab: CPU scheduling, thread synchronization, inter-process communication, deadlock avoidance, worker failure detection and resource limits.
 
