@@ -3,7 +3,7 @@
 Command-line prototype for job scheduling, threaded logging, shared-memory IPC,
 Banker's safety check, worker failure detection and resource limits.
 
-## Prerequisites
+## Prerequisites 
 
 Ubuntu or WSL Ubuntu with `gcc` and `make`:
 
